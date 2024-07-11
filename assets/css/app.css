@@ -36144,13 +36144,15 @@ body i[class~="slick-arrow"][class~="fa-angle-right"] {
   max-width: 3.75in;
 }
 .item-image img{
-  height: 495px;
+  height: 278px;
   width: 100%;
+  padding: 5px;
 }
 @media screen and (max-width: 680px) {
   .item-image img{
     height: 300px;
     width: 410px;
+    padding: 5px;
     object-fit: cover;
   }
 }
